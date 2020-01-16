@@ -1,0 +1,6 @@
+C:\Users\yandr\source\repos\examenObserver\examenObserver\obj\Debug\examenObserver.csprojAssemblyReference.cache
+C:\Users\yandr\source\repos\examenObserver\examenObserver\bin\Debug\examenObserver.exe.config
+C:\Users\yandr\source\repos\examenObserver\examenObserver\bin\Debug\examenObserver.exe
+C:\Users\yandr\source\repos\examenObserver\examenObserver\bin\Debug\examenObserver.pdb
+C:\Users\yandr\source\repos\examenObserver\examenObserver\obj\Debug\examenObserver.exe
+C:\Users\yandr\source\repos\examenObserver\examenObserver\obj\Debug\examenObserver.pdb
